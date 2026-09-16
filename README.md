@@ -4,10 +4,10 @@
 This project involves the end-to-end development of an interactive executive dashboard in Power BI to analyze patient appointment data for HealthConnect Clinic. The primary objective is to uncover the root causes of patient no-shows, evaluate operational bottlenecks, and provide data-driven recommendations to optimize scheduling and clinic revenue.
 
 ## 📁 Repository Files
-* **[Power BI Dashboard File](Replace_With_Your_Power_BI_File_Name.pbix)** - The interactive `.pbix` file containing the data model, DAX measures, and visualizations.
+* **[Power BI Dashboard File](HealthConnect_Initial_Dashboard_Abdullahi.pbix)** - The interactive `.pbix` file containing the data model, DAX measures, and visualizations.
 * **[Executive Analytics Report](Initial%20HealthConnect%20Analytics%20Report.docx)** - The formal written report detailing data prep, EDA, and strategic recommendations.
 * **[Dashboard Screenshot](HealthConnect%20Executive%20DashBoard.png)** - High-resolution image of the final UI.
-
+* 
 ## 🛠️ Tools & Technologies Used
 * **Power BI:** Data visualization, interactive dashboard design, and DAX calculations.
 * **Power Query:** Data cleaning, type standardization, and missing value imputation.
